@@ -39,7 +39,8 @@ You can directly access the dataset files here:
 
 
 ### 📸 Dashboard Snapshot
-<img width="1393" height="787" alt="Screenshot 2025-08-17 143652" src="https://github.com/user-attachments/assets/297c96a0-711a-48b6-a275-a0edcff3683a" />
+<img width="1390" height="785" alt="Screenshot 2025-08-17 145115" src="https://github.com/user-attachments/assets/7e377ba4-8a48-4951-ac47-ceec52b075d5" />
+
 
 
 
